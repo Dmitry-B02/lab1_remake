@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_1_12.xml" value="0.20520833333333333" />
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_1_12_alt.xml" value="0.20520833333333333" />
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_1_3.xml" value="0.20520833333333333" />
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_2_12.xml" value="0.20520833333333333" />
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_2_3.xml" value="0.1322463768115942" />
+        <entry key="..\:/Programming/AndroidApps/lab1/app/src/main/res/layout/layout_3_3.xml" value="0.20520833333333333" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout.xml" value="0.16590678824721378" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout1_12.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout2.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout3.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout4.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout5.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout6.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_1_12.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_1_12_alt.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_1_3.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_2_12.xml" value="0.21829710144927536" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_2_3.xml" value="0.3411458333333333" />
+        <entry key="..\:/Programming/apps/app/src/main/res/layout/layout_3_3.xml" value="0.21829710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

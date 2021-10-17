@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="checkbox">checkbox</string>
+    <string name="button">button</string>
+    <string name="radiobutton">radio</string>
+    <string name="abcdefg">abcdefg</string>
+    <string name="test">test</string>
+    <string name="luntik_character">Luntik Character</string>
+</resources>
